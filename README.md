@@ -60,10 +60,14 @@ favorite book and categories
 ## Installation
 - [Microsoft Visual studio](https://visualstudio.microsoft.com/) 
 - [sql server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)                               
-              
+
+              Create database E-book;
+
 - [Microsoft DataTools ReportingServices](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftReportProjectsforVisualStudio)
 - [Microsoft RDLC Report Designer](https://marketplace.visualstudio.com/items?itemName=ProBITools.MicrosoftRdlcReportDesignerforVisualStudio-18001)
 
+# license & copyright
 
+© samuel tsegaye
 
 
